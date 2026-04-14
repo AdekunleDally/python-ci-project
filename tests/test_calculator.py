@@ -1,4 +1,5 @@
 import pytest
+
 from myapp.calculator import add, divide, multiply, subtract
 
 
